@@ -8,7 +8,8 @@ I am currently learning software development and cybersecurity.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [hauwahrabii@gmail.com](mailto:hauwahrabii@gmail.com)
-* 🧠  I'm learning Reacjs
+* 🧠  I'm learning Reacjs and Cloud security
+* 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
 
