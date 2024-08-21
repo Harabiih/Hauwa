@@ -1,12 +1,3 @@
-- 👋 Hi, I’m Hauwah
-- 👀 I’m interested in software development and cybersecurity
-- 🌱 I’m currently learning React.js and cloud security
-- 💞️ I’m looking to collaborate on projects related to software development and cybersecurity
-- 📫 How to reach me: [https://www.linkedin.com/in/hauwa-muhammad-bukar-38ba311a0/]
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,linux,react,css,js,c,html&perline=3)](https://skillicons.dev)- 😄 Pronouns: [Your Pronouns, e.g., she/her]
-- ⚡ Fun fact: [A fun fact about yourself, e.g., I enjoy exploring new tech gadgets]
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hauwa Muhammad Bukar
 ============================================================================================================================================
 
