@@ -6,9 +6,10 @@ Software developer and Cybersecurity
 
 I am currently learning software development and cybersecurity.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Nigeria and open to remote jobs.
 * ✉️  You can contact me at [hauwahrabii@gmail.com](mailto:hauwahrabii@gmail.com)
-* 🧠  I'm learning Reacjs and Cloud security
+* 🧠  I'm an advanced frontend developer and a Cloud security Analyst.
+* I have several certifications such as ISC2 Certified in cybersecurity and Azure security engineer-Associate. 
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
