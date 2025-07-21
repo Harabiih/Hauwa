@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hauwa Muhammad Bukar
 ============================================================================================================================================
 
-Software developer and Cybersecurity
+Software developer and a Cybersecurity Analyst
 ------------------------------------
 
 I am currently learning software development and cybersecurity.
